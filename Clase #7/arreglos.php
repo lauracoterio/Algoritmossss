@@ -35,7 +35,7 @@ while ($i < $cantidadnotas) {
 
 $j = 0;
 while ($j < count($notas)) {
-    print($j . $notas[$j] . PHP_EOL);
+    print($j  . $notas[$j] . PHP_EOL);
     $j++;
 }
 

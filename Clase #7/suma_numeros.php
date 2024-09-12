@@ -1,6 +1,6 @@
 <?php
  
- /*Sumar todos los elementos de un arreglo, dado un arreglo de números enteros, crea un algoritmo que calcule y muestee la suma de todos los elementos*/
+ /*Sumar todos los elementos de un arreglo, dado un arreglo de números enteros, crea un algoritmo que calcule y muestre la suma de todos los elementos y el promedio de ellos*/
 
 $numeros = array();
 $cantidad = readline("Ingrese la cantidad de números del arreglo: ");
